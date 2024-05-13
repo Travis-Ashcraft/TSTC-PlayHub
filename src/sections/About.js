@@ -5,7 +5,7 @@ const About = () => {
     return (
         <section className="about">
             <h2>About Us</h2>
-            <p>TSTC Playhub is test designed to merge education with entertainment, providing effective learning solutions through gamification.</p>
+            <p>TSTC Playhub is test designed test to merge education with entertainment, providing effective learning solutions through gamification.</p>
         </section>
     );
 }
